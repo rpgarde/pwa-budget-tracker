@@ -41,4 +41,8 @@ router.get("/api/transaction", (req, res) => {
     });
 });
 
+router.get("/api/transaction/test", (req, res) => {
+  res.send("TEST API")
+});
+
 module.exports = router;
