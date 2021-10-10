@@ -6,7 +6,7 @@ This is a Progressive Web App budget tracker which allows you to still add entri
 
 See deployed app [here](https://pg-budget-tracker.herokuapp.com/).
 
-<img src="./assets/downloaded-app.png" width="40%"/> <img src="./assets/mobile-app.png" width="40%"/> 
+<img src="/assets/downloaded-app.PNG" width="40%"> <img src="/assets/mobile-app.PNG" width="40%"> 
 
 ## Table of Contents 
 * [Technology](#technology)
